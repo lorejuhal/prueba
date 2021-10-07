@@ -10,7 +10,8 @@ public class CerraduraElectronicaTest {
 	public void AlcrearLaCerraduraElectronicaEstaAbierta() {
 		CerraduraElectronica cerradura = new CerraduraElectronica();
 		assertTrue(cerradura.estaAbierta());
-			
+		
+		
 	}
 
 }
